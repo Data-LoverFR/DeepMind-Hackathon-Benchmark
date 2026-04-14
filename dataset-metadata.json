@@ -1,0 +1,8 @@
+{
+  "title": "HONESTAI: Measuring Metacognitive Abilities in LLMs",
+  "id": "paulknidler/honestai-benchmark",
+  "licenses": [
+    { "name": "CC-BY-4.0" }
+  ],
+  "description": "HONESTAI benchmark: 200 deterministic evaluation items and evaluation code to measure LLM metacognition (accuracy under uncertainty, calibration, hallucination, abstention, self-correction). Includes dataset, evaluator.py, notebook, and examples. Change the `id` field to match your Kaggle username/dataset slug before uploading."
+}
